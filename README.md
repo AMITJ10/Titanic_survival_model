@@ -1,2 +1,2 @@
 # Titanic_survival_model
-Machine learning model of Titanic survival prediction
+Machine learning model for Titanic survival prediction
